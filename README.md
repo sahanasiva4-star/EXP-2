@@ -48,27 +48,52 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 
+
+
 Tabulation for Open Circuit Test:
+
+
 <img width="499" height="560" alt="image" src="https://github.com/user-attachments/assets/046870ba-ebcd-4d66-8216-1be842872298" />
 
 
+
+
 Tabulation for Load Test:
+
+
 <img width="498" height="419" alt="image" src="https://github.com/user-attachments/assets/cb3362f8-8b96-4e4f-9869-dc629da081ec" />
+
+
+
+
+
+
 
 
 MODEL GRAPH:
 Open Circuit Test:
+
 <img width="500" height="327" alt="image" src="https://github.com/user-attachments/assets/a87befdc-605a-432c-874d-16d66d4c74aa" />
 
 
 Load Test:
+
 <img width="435" height="287" alt="image" src="https://github.com/user-attachments/assets/fa97e0ab-5ae7-4c45-94c7-f51e9a069ffa" />
+
+
+
+
+
+
+
 
 
 
 CALCULATION:
 
 Open circuit characteristics:
+
+
 <img width="941" height="451" alt="image" src="https://github.com/user-attachments/assets/c3fd064a-719c-41d0-b9d7-cbec4f91c3a2" />
 <img width="1374" height="437" alt="image" src="https://github.com/user-attachments/assets/aff5cdec-4e31-4619-9fb3-6f41df085349" />
 <img width="1390" height="642" alt="image" src="https://github.com/user-attachments/assets/6217a47c-ce0e-4489-b82b-0214a0f6385a" />
@@ -76,9 +101,18 @@ Open circuit characteristics:
 
   
 Load Characteristics:
+
+
 <img width="974" height="420" alt="image" src="https://github.com/user-attachments/assets/7f7acfb0-1bbd-4129-a901-b59ec558843b" />
 <img width="1090" height="326" alt="image" src="https://github.com/user-attachments/assets/85c9b8bf-277b-4105-b7db-2ba46a063858" />
 <img width="1097" height="638" alt="image" src="https://github.com/user-attachments/assets/29e27407-08fc-4b3d-9de3-131dec8e79cf" />
+
+
+
+
+
+
+
 
 
 GRAPH:
@@ -87,6 +121,16 @@ GRAPH:
 <img width="584" height="798" alt="image" src="https://github.com/user-attachments/assets/760847aa-3af3-4f55-9310-7db0fe4bd6e0" />
 
 
+
+
+
+
+
+
+
+
+
  
 Result:
+
 The load test on separately excited generators and to obtain the characteristics was verified.
